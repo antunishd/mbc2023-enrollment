@@ -1,0 +1,9 @@
+{
+    "canisters": {
+      "demo_project": {
+        "main": "main.mo",
+        "type": "motoko"
+      }
+
+  }
+}
